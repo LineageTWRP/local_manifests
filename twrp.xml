@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- TWRP -->
+  <project name="LineageTWRP/android_bootable_recovery" path="bootable/recovery-twrp" revision="android-8.1" />
+
+  <project name="LineageTWRP/android_vendor_lineagetwrp" path="vendor/lineagetwrp" />
+</manifest>
